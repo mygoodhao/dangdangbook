@@ -1,5 +1,7 @@
 package com.oracle.shubook.util;
-
+/*
+* 这是加密用的工具类
+* */
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
