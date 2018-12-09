@@ -1,0 +1,21 @@
+{
+  "name": "shubook",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+  "jquery.cookie": "1.4.1",
+   "bootstrap": "4.1.3",
+  "jquery": "3.3.1",
+  "bootswatch": "4.1.3",
+  "bootstrap-datepicker": "1.8.0",
+    "fontawesome":"5.5.0",
+    "jquery-validation":"1.17.0"
+  }
+}
